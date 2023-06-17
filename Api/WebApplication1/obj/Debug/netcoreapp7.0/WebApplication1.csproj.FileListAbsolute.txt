@@ -1,0 +1,90 @@
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp7.0\appsettings.Development.json
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp7.0\appsettings.json
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp7.0\WebApplication1.exe
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp7.0\WebApplication1.deps.json
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp7.0\WebApplication1.runtimeconfig.json
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp7.0\WebApplication1.dll
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp7.0\WebApplication1.pdb
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp7.0\Microsoft.EntityFrameworkCore.dll
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.csproj.AssemblyReference.cache
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.AssemblyInfoInputs.cache
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.AssemblyInfo.cs
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp7.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp7.0\staticwebassets.pack.json
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp7.0\staticwebassets.build.json
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp7.0\staticwebassets.development.json
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp7.0\scopedcss\bundle\WebApplication1.styles.css
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.csproj.CopyComplete
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.dll
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp7.0\refint\WebApplication1.dll
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.pdb
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.genruntimeconfig.cache
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\obj\Debug\netcoreapp7.0\ref\WebApplication1.dll
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication\WebApplication1\bin\Debug\netcoreapp7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\bin\Debug\netcoreapp7.0\appsettings.Development.json
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\bin\Debug\netcoreapp7.0\appsettings.json
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\bin\Debug\netcoreapp7.0\WebApplication1.exe
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\bin\Debug\netcoreapp7.0\WebApplication1.deps.json
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\bin\Debug\netcoreapp7.0\WebApplication1.runtimeconfig.json
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\bin\Debug\netcoreapp7.0\WebApplication1.dll
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\bin\Debug\netcoreapp7.0\WebApplication1.pdb
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\bin\Debug\netcoreapp7.0\Microsoft.EntityFrameworkCore.dll
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\bin\Debug\netcoreapp7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\bin\Debug\netcoreapp7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.csproj.AssemblyReference.cache
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.AssemblyInfoInputs.cache
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.AssemblyInfo.cs
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\obj\Debug\netcoreapp7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\obj\Debug\netcoreapp7.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\obj\Debug\netcoreapp7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\obj\Debug\netcoreapp7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\obj\Debug\netcoreapp7.0\staticwebassets.pack.json
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\obj\Debug\netcoreapp7.0\staticwebassets.build.json
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\obj\Debug\netcoreapp7.0\staticwebassets.development.json
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\obj\Debug\netcoreapp7.0\scopedcss\bundle\WebApplication1.styles.css
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.csproj.CopyComplete
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.dll
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\obj\Debug\netcoreapp7.0\refint\WebApplication1.dll
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.pdb
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.genruntimeconfig.cache
+D:\studia\rok II\ROZPROSZEONE\NetCore3WebAPIApplication - Backup\WebApplication1\obj\Debug\netcoreapp7.0\ref\WebApplication1.dll
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\bin\Debug\netcoreapp7.0\appsettings.Development.json
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\bin\Debug\netcoreapp7.0\appsettings.json
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\bin\Debug\netcoreapp7.0\WebApplication1.exe
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\bin\Debug\netcoreapp7.0\WebApplication1.deps.json
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\bin\Debug\netcoreapp7.0\WebApplication1.runtimeconfig.json
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\bin\Debug\netcoreapp7.0\WebApplication1.dll
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\bin\Debug\netcoreapp7.0\WebApplication1.pdb
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\bin\Debug\netcoreapp7.0\Microsoft.EntityFrameworkCore.dll
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\bin\Debug\netcoreapp7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\bin\Debug\netcoreapp7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.csproj.AssemblyReference.cache
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.AssemblyInfoInputs.cache
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.AssemblyInfo.cs
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\obj\Debug\netcoreapp7.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\obj\Debug\netcoreapp7.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\obj\Debug\netcoreapp7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\obj\Debug\netcoreapp7.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\obj\Debug\netcoreapp7.0\staticwebassets.pack.json
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\obj\Debug\netcoreapp7.0\staticwebassets.build.json
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\obj\Debug\netcoreapp7.0\staticwebassets.development.json
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\obj\Debug\netcoreapp7.0\scopedcss\bundle\WebApplication1.styles.css
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.csproj.CopyComplete
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.dll
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\obj\Debug\netcoreapp7.0\refint\WebApplication1.dll
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.pdb
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\obj\Debug\netcoreapp7.0\WebApplication1.genruntimeconfig.cache
+D:\studia\rok II\ROZPROSZEONE\Api\WebApplication1\obj\Debug\netcoreapp7.0\ref\WebApplication1.dll
